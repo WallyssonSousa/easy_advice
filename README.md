@@ -8,3 +8,4 @@
 
 # Resultado 
 
+![result-pic](https://github.com/user-attachments/assets/92ae119a-8def-4e92-bf25-b80e72471d39)
